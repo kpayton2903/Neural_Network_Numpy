@@ -10,9 +10,6 @@ class Neural_Network:
         self.output_activ = out_activ
 
 '''
-    def back_prop(self):
-
-
     def train(self, X, Y):
 '''
 
